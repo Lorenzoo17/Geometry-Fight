@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d79495cbb62b1644a68eda5724b7463, type: 3}
+  m_Name: RangeFollow
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyStats
+  health: 30
+  speed: 3
+  attackRange: 10
+  followRange: 30
+  damage: 5
+  bulletAttackRange: 2
+  sprite: {fileID: -6739250582914046389, guid: b688ed0fcd6c8f3438642b1863679e7c, type: 3}
+  bullet: {fileID: 7676684067608233594, guid: cd5b7835c4694174499c50c1dca56e20, type: 3}
+  sizeMin: 1
+  sizeMax: 1.5
+  attackRateMin: 1
+  attackRateMax: 2
+  bulletSpeedMin: 10
+  bulletSpeedMax: 15
+  bulletSizeMultiplierMin: 1
+  bulletSizeMultiplierMax: 1.5
+  degreeRotationPerSecondMin: 40
+  degreeRotationPerSecondMax: 250
+  fleeDistance: 7
+  xpToGive: 40

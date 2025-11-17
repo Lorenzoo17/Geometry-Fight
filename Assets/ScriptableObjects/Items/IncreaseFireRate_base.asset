@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71f56846e16d7c74da13bf7f64147fd4, type: 3}
+  m_Name: IncreaseFireRate_base
+  m_EditorClassIdentifier: Assembly-CSharp::IncreaseFireRate_Item
+  itemName: IncreaseFireRate_base
+  itemSprite: {fileID: -6231044458718751821, guid: c1bc20fa2ba9c094dbecda28de480a7b, type: 3}
+  itemColor:
+    serializedVersion: 2
+    rgba: 4290599376
+  effectDuration: 10
+  effectName: FIRE RATE UP
+  rateReduction: 0.1

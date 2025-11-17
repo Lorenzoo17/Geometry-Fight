@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|c:\\users\\loren\\documents\\progetti unity\\geometry fight remake\\assets\\scripts\\general\\environmentparticlebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\environmentparticlebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|c:\\users\\loren\\documents\\progetti unity\\geometry fight remake\\assets\\scripts\\general\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\assets\\scripts\\player\\playerlevelsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerlevelsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\assets\\scripts\\enemies\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\assets\\scripts\\items\\itemspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\items\\itemspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\assets\\scripts\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\assets\\scripts\\general\\cursormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\cursormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\General\\Cursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\General\\Cursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnvironmentParticleBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\General\\EnvironmentParticleBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\EnvironmentParticleBehaviour.cs",
+              "ToolTip": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\General\\EnvironmentParticleBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\EnvironmentParticleBehaviour.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:53:57.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:08:30.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\General\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\GameController.cs",
+              "ToolTip": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\General\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\GameController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwC8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:01:49.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CursorManager.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\General\\CursorManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\CursorManager.cs",
+              "ToolTip": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\General\\CursorManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\CursorManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:40:23.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cursor.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\General\\Cursor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Cursor.cs",
+              "ToolTip": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\General\\Cursor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\Cursor.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:38:42.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerLevelSystem.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\Player\\PlayerLevelSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerLevelSystem.cs",
+              "ToolTip": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\Player\\PlayerLevelSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerLevelSystem.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwD4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:31:15.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\Enemies\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Enemy.cs",
+              "ToolTip": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\Enemies\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Enemy.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAIwKcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T22:25:48.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\Items\\ItemSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Items\\ItemSpawner.cs",
+              "ToolTip": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\Items\\ItemSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Items\\ItemSpawner.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwDwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T22:21:53.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\Enemies\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\Enemies\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemySpawner.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAYwEcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T22:20:24.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

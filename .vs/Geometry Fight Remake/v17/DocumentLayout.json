@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\assets\\scripts\\general\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\assets\\scripts\\player\\playerlevelsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerlevelsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|c:\\users\\loren\\documents\\progetti unity\\geometry fight remake\\assets\\scripts\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FECF655-17AF-FC3A-5559-D205F3DA24A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T15:20:54.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\General\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\GameController.cs",
+              "ToolTip": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\General\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\GameController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:01:49.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerLevelSystem.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\Player\\PlayerLevelSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerLevelSystem.cs",
+              "ToolTip": "C:\\Users\\loren\\Documents\\Progetti Unity\\Geometry Fight Remake\\Assets\\Scripts\\Player\\PlayerLevelSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerLevelSystem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:31:15.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
